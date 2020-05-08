@@ -36,7 +36,7 @@
           <stringProp name="driver">com.microsoft.sqlserver.jdbc.SQLServerDriver</stringProp>
           <stringProp name="initQuery"></stringProp>
           <boolProp name="keepAlive">true</boolProp>
-          <stringProp name="password">Pa55word1234@</stringProp>
+          <stringProp name="password">password</stringProp>
           <stringProp name="poolMax">10</stringProp>
           <boolProp name="preinit">false</boolProp>
           <stringProp name="timeout">10000</stringProp>
